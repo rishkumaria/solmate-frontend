@@ -1,0 +1,2 @@
+Almost all packages are outdated
+I had to audit and fix packages to run successfully
