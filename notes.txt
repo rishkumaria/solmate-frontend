@@ -1,2 +1,3 @@
 Almost all packages are outdated
 I had to audit and fix packages to run successfully
+Routers are very unorganized, needs better route implementation
